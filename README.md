@@ -11,8 +11,8 @@ Bilingual full-stack web developer with experience in Ruby and JavaScript framew
 
 Let's Connect 🔗
 ---------------
-*Twitter: https://twitter.com/chris_vsanchez
-*LinkedIn: https://www.linkedin.com/in/chrisvsanchez/
-*Medium: https://medium.com/@chrisvsanchez
+- Twitter: https://twitter.com/chris_vsanchez
+- LinkedIn: https://www.linkedin.com/in/chrisvsanchez/
+- Medium: https://medium.com/@chrisvsanchez
 
-[![Foo](http://www.google.com.au/images/nav_logo7.png)](http://google.com.au/)
+
