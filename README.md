@@ -5,8 +5,6 @@ Bilingual full-stack web developer with experience in Ruby and JavaScript framew
 
 
 ![Chris's github stats](https://github-readme-stats.vercel.app/api?username=chrisvsanchez&show_icons=true&theme=vue-dark)
-
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chrisvsanchez&theme=vue-dark)](https://github.com/chrisvsanchez/github-readme-stats)
 
 Let's Connect 🔗
