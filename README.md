@@ -1,8 +1,8 @@
-### Hi there 👋
+
 
 
 ![Chris's github stats](https://github-readme-stats.vercel.app/api?username=chrisvsanchez&show_icons=true&theme=vue-dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chrisvsanchez)](https://github.com/chrisvsanchez/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chrisvsanchez&theme=vue-dark)](https://github.com/chrisvsanchez/github-readme-stats)
 
 Here are some ideas to get you started:
 
