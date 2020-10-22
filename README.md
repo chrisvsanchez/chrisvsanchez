@@ -1,7 +1,9 @@
 ### Hi there 👋
 
 
-[Chris's github stats](https://github-readme-stats.vercel.app/api?username=chrisvsanchez&show_icons=true&theme=radical)
+![Chris's github stats](https://github-readme-stats.vercel.app/api?username=chrisvsanchez&show_icons=true&theme=radical)
+
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
