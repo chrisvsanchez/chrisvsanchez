@@ -1,4 +1,4 @@
-Chris V Sanchez 👨🏽‍💻 
+Chris V. Sanchez 👨🏽‍💻 
 =============
 
 Bilingual full-stack web developer. 
