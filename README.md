@@ -9,7 +9,7 @@ Bilingual full-stack web developer.
 
 Let's Connect 🔗
 ---------------
-- Twitter: https://twitter.com/chris_vsanchez
+- Twitter: https://twitter.com/ChrisCompiled
 - LinkedIn: https://www.linkedin.com/in/chrisvsanchez/
 - Medium: https://medium.com/@chrisvsanchez
 
